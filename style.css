@@ -1,6 +1,61 @@
-.navbar{
-    margin-right: 0px;
+
+.bg-image1 {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGigWqHpC9Vc_-K9_Jg3W7RHQUv_NV07fUBULkC228SjoS08kt&s);
+  height: 30%;
+  padding-top:0px;
+  background-size:cover;
+  width:100%;
 }
-.nav-item{
-    margin-right: 0px;
+h3{
+  font-size: 14px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 10px;
+  color: rgb(255, 250, 253);
+  
+}
+h1{
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 25%;
+  padding-right: 25%;
+  color: white;
+  font-style: italic;
+}
+.btn{
+  font-size: 12px;
+}
+.card{
+  width:80%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  
+}
+.bg-image2 {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjuhxhKK6dJQswB1CFR66Z34ZrAlZwEt8onf9RmQN8JDmCKdlp&s);
+  background-size:cover;
+  width:100%;
+  height: 100%;
+}
+p1{
+  color: white;
+}
+.btn1, .btn2{
+  margin-top: 10%;
+}
+p2{
+  margin-top: 80%;
+  margin-bottom:10%;
+  color: white;
+}
+.btn3, .btn4{
+  margin-top: 20%;
+  margin-bottom: 50%;
+}
+.bg-image3 {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGigWqHpC9Vc_-K9_Jg3W7RHQUv_NV07fUBULkC228SjoS08kt&s);
+  height: 30%;
+  padding-top:0px;
+  background-size:cover;
+  width:100%;
 }
