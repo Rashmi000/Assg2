@@ -12,7 +12,7 @@ h3{
   
 }
 h1{
-  font-size: 28px;
+  font-size: 30px;
   padding-left: 25%;
   padding-right: 25%;
   color: white;
@@ -21,7 +21,7 @@ h1{
 
 }
 h2{
-  font-size: 20px;
+  font-size: 22px;
   color: white;
   font-family: 'Kaushan Script';
   margin-left: 10px;
@@ -46,17 +46,19 @@ p1{
 }
 .btn1{
   margin-top: 10%;
-  margin-left: 23%;
   font-size: 14px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .btn2{
   margin-top: 10%;
-  margin-right: 15%;
   font-size: 14px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 p2{
   margin-bottom:10%;
@@ -69,9 +71,10 @@ p2{
   margin-top: 20%;
   margin-bottom: 50%;
   font-size: 14px;
-  padding-left: 5px;
+  padding-left: px;
   padding-right: 5px;
-  margin-left: 23%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .btn4{
   margin-top: 20%;
@@ -79,7 +82,8 @@ p2{
   font-size: 14px;
   padding-left: 5px;
   padding-right: 5px;
-  margin-right: 15%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .bg-image3 {
   background-color: #016064;
@@ -89,6 +93,6 @@ p3,p4,p5 {
   font-family: 'Roboto';
   font-size: 16px;
 }
-.navbar{
+.nav{
   background-color: #016064;
 }
