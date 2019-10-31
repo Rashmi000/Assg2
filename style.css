@@ -1,7 +1,9 @@
-
+.navbar-brand{
+  color: white;
+  padding-top: 10px;
+}
 .bg-image1 {
   background-color: #016064;
-  font-size:50;
 }
 h3{
   font-size: 14px;
@@ -42,7 +44,7 @@ h2{
 p1{
   color: white;
   font-family: 'Roboto';
-  font-size: 16px;
+  font-size: 14px;
 }
 .btn1{
   margin-top: 10%;
@@ -65,7 +67,7 @@ p2{
   text-align: center;
   color: white;
   font-family: 'Roboto';
-  font-size: 16px;
+  font-size: 14px;
 }
 .btn3{
   margin-top: 20%;
@@ -88,11 +90,21 @@ p2{
 .bg-image3 {
   background-color: #016064;
 }
-p3,p4,p5 {
+p3{
   color: white;
   font-family: 'Roboto';
-  font-size: 16px;
+  font-size: 14px;
 }
-.navbar{
+p4{
+  color: white;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+p5{
+  color: white;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.nav-bg{
   background-color: #016064;
 }
