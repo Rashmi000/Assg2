@@ -1,8 +1,10 @@
 .nav-link{
   font-size: 14px;
+  font-family: 'Roboto',sans-serif;
 }
 .title{
   font-size: 14px;
+  font-family: 'Roboto',sans-serif;
 }
 .bg-image1 {
   background-color: #016064;
@@ -13,7 +15,7 @@ h3{
   padding-right: 20%;
   padding-top: 10px;
   color: rgb(255, 250, 253);
-  
+  font-family: 'Roboto',sans-serif;
 }
 h1{
   font-size: 30px;
@@ -55,6 +57,7 @@ h2{
   padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: 'Roboto',sans-serif;
 }
 .btn2{
   margin-top: 10%;
@@ -63,6 +66,7 @@ h2{
   padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: 'Roboto',sans-serif;
 }
 #p2{
   text-align: center;
@@ -74,19 +78,21 @@ h2{
   margin-top: 20%;
   margin-bottom: 50%;
   font-size: 14px;
-  padding-left: px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: 'Roboto',sans-serif;
 }
 .btn4{
   margin-top: 20%;
   margin-bottom: 50%;
   font-size: 14px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-family: 'Roboto',sans-serif;
 }
 .bg-image3 {
   background-color: #016064;
