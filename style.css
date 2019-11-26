@@ -33,8 +33,6 @@ h2{
   margin-left: 10px;
   margin-top: 10px;
   margin-bottom: 20px;
-
-  
 }
 .card{
   width:80%;
@@ -64,8 +62,8 @@ h2{
 .btn2{
   margin-top: 10%;
   font-size: 14px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 10px;
   padding-bottom: 10px;
   font-family: 'Roboto',sans-serif;
@@ -90,8 +88,8 @@ h2{
   margin-top: 20%;
   margin-bottom: 50%;
   font-size: 14px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 10px;
   padding-bottom: 10px;
   font-family: 'Roboto',sans-serif;
@@ -101,20 +99,12 @@ h2{
   padding-top: 50px;
   padding-bottom: 70px;
 }
-#p3{
+#p3,#p4,#p5{
   color: white;
   font-family: 'Roboto',sans-serif;
   font-size: 14px;
-}
-#p4{
-  color: white;
-  font-family: 'Roboto',sans-serif;
-  font-size: 14px;
-}
-#p5{
-  color: white;
-  font-family: 'Roboto',sans-serif;
-  font-size: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .nav-bg{
   background-color: #016064;
