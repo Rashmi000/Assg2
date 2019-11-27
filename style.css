@@ -3,12 +3,6 @@
   font-size: 16px;
   font-family: 'Roboto',sans-serif;
 }
-.sec1{
-  height: 500px;
-}
-.sec2, .sec3{
-  height: 400px;
-}
 .title{
   font-size: 16px;
   font-family: 'Roboto',sans-serif;
@@ -43,8 +37,8 @@ h2{
 }
 .card{
   width:80%;
-  margin-left: 10%;
-  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-bottom: 20%;
   
 }
 .bg-image2 {
@@ -75,6 +69,10 @@ h2{
   padding-bottom: 10px;
   font-family: 'Roboto',sans-serif;
 }
+.card{
+  width: 100%;
+  margin-right: 10%;
+}
 #p2{
   text-align: center;
   color: white;
@@ -82,7 +80,7 @@ h2{
   font-size: 18px;
   margin-left: 5%;
   margin-right: 5%;
-  padding-top: 10%;
+  padding-top: 10px;
   padding-bottom: 30px;
 }
 .btn3{
@@ -111,7 +109,7 @@ h2{
 #p3,#p4,#p5{
   color: white;
   font-family: 'Roboto',sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -119,5 +117,5 @@ h2{
   background-color: #016064;
 }
 .lastsec{
-  padding-top: 10%;
+  padding-top: 10px;
 }
