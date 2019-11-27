@@ -1,19 +1,26 @@
-.nav-link{
-  font-size: 14px;
+
+.navbar-brand, .nav-link{
+  font-size: 16px;
   font-family: 'Roboto',sans-serif;
 }
+.sec1{
+  height: 500px;
+}
+.sec2, .sec3{
+  height: 400px;
+}
 .title{
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Roboto',sans-serif;
 }
 .bg-image1 {
   background-color: #016064;
 }
 h3{
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 20%;
   padding-right: 20%;
-  padding-top: 10px;
+  padding-top: 25px;
   color: rgb(255, 250, 253);
   font-family: 'Roboto',sans-serif;
 }
@@ -48,19 +55,19 @@ h2{
 #p1{
   color: white;
   font-family: 'Roboto',sans-serif;
-  font-size: 14px;
+  font-size: 18px;
 }
 .btn1{
-  margin-top: 10%;
+  margin-left: 30%;
   font-size: 14px;
+  padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 10px;
   padding-bottom: 10px;
   font-family: 'Roboto',sans-serif;
 }
 .btn2{
-  margin-top: 10%;
+  margin-left: 20px;
   font-size: 14px;
   padding-left: 15px;
   padding-right: 15px;
@@ -72,21 +79,23 @@ h2{
   text-align: center;
   color: white;
   font-family: 'Roboto',sans-serif;
-  font-size: 14px;
+  font-size: 18px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 10%;
+  padding-bottom: 30px;
 }
 .btn3{
-  margin-top: 20%;
-  margin-bottom: 50%;
+  margin-left: 30%;
   font-size: 14px;
+  padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 10px;
   padding-bottom: 10px;
   font-family: 'Roboto',sans-serif;
 }
 .btn4{
-  margin-top: 20%;
-  margin-bottom: 50%;
+  margin-left: 20px;
   font-size: 14px;
   padding-left: 15px;
   padding-right: 15px;
@@ -108,4 +117,7 @@ h2{
 }
 .nav-bg{
   background-color: #016064;
+}
+.lastsec{
+  padding-top: 10%;
 }
